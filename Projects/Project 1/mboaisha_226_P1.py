@@ -21,7 +21,7 @@
 # 10 20 30 40 50 60 70 80
 #-------------------------------------------------------------------------------
 
-#A quick ref. for the dollar currency and it's denomations
+# A quick ref. for the dollar currency and it's denominations
 # 1 Dollar = 100 cents
 # half-dollar = 50 cents
 # Quarter = 25 cents
@@ -30,32 +30,32 @@
 # Penny = one 1 cent 
 
 print("Welcome to the School Supplies Store!")
-#Ask the user for their name and store it to the var. "name" as a string
+# Ask the user for their name and store it to the var. "name" as a string
 name = input("What is your name?")
 
-#Ask user for input, define as integar and store to var. "pencils"
+# Ask user for input, define as integer and store to var. "pencils"
 pencils = int(input("How many 29-cent pencils do you want?"))
 
-#Ask user for input, define as integar and store to var. "sheafs"
+# Ask user for input, define as integer and store to var. "sheafs"
 sheafs = int(input("How many 200-cent of sheafs of graph paper do you want?"))
 
-#Ask user for input, define as integar and store to var. "scantrons"
+# Ask user for input, define as integer and store to var. "scantrons"
 scantrons = int(input("How many 45-cent scantrons do you want?"))
 
-#Compute the total cost by multiplying the quanities inputted with the price in cents
+# Compute the total cost by multiplying the quanities inputted with the price in cents
 # price*item
 totalQuantityWithPrice = 29*pencils + 200*sheafs + 45*scantrons
 
-#Print the total cost, first initilize the valu as a string then print to concatonate
+# Print the total cost, first initialize the value as a string then print to concatenate
 print("Total Cost:" + str(totalQuantityWithPrice) + "cents")
 
-# Take how many cents the user supplies 
+# Take how many cents the user supplies
 paymentInCents = int(input("How many cents are you paying with? "))
-#Compute the change
+# Compute the change
 change = paymentInCents - totalQuantityWithPrice
 
-#Compute the change to the dollar denomations
-#Compute the change, initialize as string and print
+# Compute the change to the dollar denominations
+# Compute the change, initialize as string and print
 print("Your change is " + str(change) + ":")
 
 
