@@ -1,0 +1,171 @@
+INPUT
+Mason
+1
+2
+1
+1006
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 474 cents
+How many cents are you paying with? Your change is 532 cents:
+5 dollars
+1 quarters
+0 dimes
+1 nickels
+2 pennies
+Thank you, Mason!
+
+INPUT
+Armando
+0
+0
+0
+50
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 0 cents
+How many cents are you paying with? Your change is 50 cents:
+0 dollars
+2 quarters
+0 dimes
+0 nickels
+0 pennies
+Thank you, Armando!
+
+INPUT
+Babcia
+1
+0
+0
+100
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 29 cents
+How many cents are you paying with? Your change is 71 cents:
+0 dollars
+2 quarters
+2 dimes
+0 nickels
+1 pennies
+Thank you, Babcia!
+
+INPUT
+Carrie
+0
+3
+0
+1000
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 600 cents
+How many cents are you paying with? Your change is 400 cents:
+4 dollars
+0 quarters
+0 dimes
+0 nickels
+0 pennies
+Thank you, Carrie!
+
+INPUT
+Dave
+0
+0
+2
+131
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 90 cents
+How many cents are you paying with? Your change is 41 cents:
+0 dollars
+1 quarters
+1 dimes
+1 nickels
+1 pennies
+Thank you, Dave!
+
+INPUT
+Eve
+40
+12
+32
+10000
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 5000 cents
+How many cents are you paying with? Your change is 5000 cents:
+50 dollars
+0 quarters
+0 dimes
+0 nickels
+0 pennies
+Thank you, Eve!
+
+INPUT
+Ferhad
+3
+6
+8
+2000
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 1647 cents
+How many cents are you paying with? Your change is 353 cents:
+3 dollars
+2 quarters
+0 dimes
+0 nickels
+3 pennies
+Thank you, Ferhad!
+
+INPUT
+Gene Harpo
+1000
+500
+250
+1234567
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 140250 cents
+How many cents are you paying with? Your change is 1094317 cents:
+10943 dollars
+0 quarters
+1 dimes
+1 nickels
+2 pennies
+Thank you, Gene Harpo!
+
+INPUT
+Idris
+1
+1
+1
+274
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 274 cents
+How many cents are you paying with? Your change is 0 cents:
+0 dollars
+0 quarters
+0 dimes
+0 nickels
+0 pennies
+Thank you, Idris!
+
+INPUT
+Julie
+0
+0
+0
+0
+OUTPUT
+Welcome to the School Supplies Store!
+What is your name? How many 29-cent pencils do you want? How many 200-cent sheafs of graph paper do you want? How many 45-cent scantrons do you want? Total cost: 0 cents
+How many cents are you paying with? Your change is 0 cents:
+0 dollars
+0 quarters
+0 dimes
+0 nickels
+0 pennies
+Thank you, Julie!
+
+ENDTESTS

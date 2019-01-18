@@ -1,0 +1,5 @@
+#mboaisha_226_L2
+
+def letter_grade(score):
+	if score => 98:
+		print("A+")

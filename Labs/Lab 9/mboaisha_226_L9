@@ -1,0 +1,22 @@
+def counts(sx):
+    #Initilize empty dict and list
+    temp_dict = {}
+    temp_list = []
+    
+    #Find unique entries
+    for x in sx:
+        if x in temp_list:
+            pass
+        else:
+            temp_list.append(x)
+    
+    #Update dict. with key and number of occurances
+    for y in temp_list:
+        if y not in temp_dict:
+            counted = sx.count(y)
+            temp_dict.update({y:counted})
+    
+       
+    ans = temp_dict
+    
+    return ans
